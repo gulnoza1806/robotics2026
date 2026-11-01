@@ -1,0 +1,11 @@
+# Battery voltage read from the TRIK display, before and after each run (resolution 0.1 V).
+# Runs in recording order. Voltage dropped from 11.8 V to 11.7 V during run 5.
+# file,V_before,V_after
+steps_M4_run1_240069.txt,11.8,11.8
+steps_M4_run2_240069.txt,11.8,11.8
+square_M4_240069.txt,11.8,11.8
+chirp_M4_240069.txt,11.8,11.8
+steps_M3_run1_240069.txt,11.8,11.7
+steps_M3_run2_240069.txt,11.7,11.7
+square_M3_240069.txt,11.7,11.7
+chirp_M3_240069.txt,11.7,11.7
